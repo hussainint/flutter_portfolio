@@ -19,8 +19,8 @@ class AboutMeContent {
       'https://www.linkedin.com/feed/update/urn:li:activity:6910921258712936448/',
     ],
     [
-      'Taskesy.com ',
-      'Simple Task Management for complex teams',
+      'GoalIt ',
+      'Social Media for Like minded goal achievers',
       '',
       '',
     ],
@@ -46,8 +46,8 @@ class AboutMeContent {
       'https://play.google.com/store/apps/details?id=com.wynwy.inconn&hl=en-IN',
     ],
     [
-      'Taskesy.com',
-      'Simple Task Management application for complex teams',
+      'GoalIt ',
+      'Social Media for Like minded goal achievers',
       '',
       '',
     ],
